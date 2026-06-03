@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image 3 jun 2026, 11_40_30" src="https://github.com/user-attachments/assets/767d6f72-60e2-47e1-a39d-f1c689cd9257" />
+
+
 # Hola, soy Manuel Beltran 👨🏻‍💻
 
 Perfil de Alumno de la academia conquerblocks, cursando el MASTER EN DESARROLLADOR WEB FULLSTACK!!

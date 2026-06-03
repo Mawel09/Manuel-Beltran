@@ -9,6 +9,12 @@ Lenguajes aprendidos y poniendo en practica:
 
 Backend Technologies: Python 
 
+## Acerca de este repositorio 📁
+
+En este repositorio encontrarás el código fuente de mi página web personal, donde muestro mis proyectos, habilidades y mi evolución como desarrollador.
+
+<br>
+
 
 ## Contact Me 📫
 

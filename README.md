@@ -11,6 +11,7 @@ Lenguajes aprendidos y poniendo en practica:
 [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]()
 [![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
 [![Google Antigravity](https://img.shields.io/badge/Google-Antigravity_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1A1A1A)]()
+[![Google Antigravity](https://img.shields.io/badge/Google-Antigravity-6C63FF?style=for-the-badge&logo=google&logoColor=white&labelColor=111827)]()
 
 Backend Technologies: Python 
 
